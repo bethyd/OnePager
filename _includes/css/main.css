@@ -28,7 +28,7 @@ html { box-sizing: border-box; }
 
 /* ----- code, syntax highlighting, etc ----- */
 
-code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
+code, pre, .recommend { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
 
 /* spesifically inline code */
 code {
@@ -45,6 +45,15 @@ pre {
   padding: 4px 8px;
   background: rgba(255,255,255,0.1);
   word-wrap: break-word;
+}
+
+/* MY block code, cuz fuck pre */
+.recommend code { background: none; display: block; }
+.recommend {
+  display: block;
+  margin: 20px 5%;
+  padding: 4px 8px;
+  background: rgba(255,255,255,0.1);
 }
 
 .highlighttable { margin:20px 5%; }
