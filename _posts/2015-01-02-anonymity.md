@@ -6,7 +6,7 @@ style: left
 fa-icon: eye-slash
 ---
 
-<h2 class="text-white">You can be invisible to malicious threats.</h2>
+<h2 class="text-white">Be invisible to malicious threats.</h2>
 
 Your casual internet browsing yields a treasure trove of personal data for anyone who can see what you're doing. Websites often track your activity across the internet so they can collect marketing data: what your interests are, where you spend your time, and so on. As you can imagine, if this data is valuable to companies, it’s valuable to hackers and trolls too; it’s very easy to capture sensitive information like credit card data, physical location, or account data just by being able to monitor someone’s web browsing. So what should you do?
 
