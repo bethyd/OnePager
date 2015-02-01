@@ -1,9 +1,9 @@
 ---
-title: "Hackers"
+title: "Hacking"
 bg: green     #defined in _config.yml, can use html color like '#010101'
 color: black  #text color
 style: left
-fa-icon: shield
+fa-icon: crosshairs
 ---
 
 Your online accounts are points of access to your life both online and off. From email to social media to shopping, your accounts are crucial for pretty much everything you do through the internet. Spread out across these accounts is a treasure trove of personal data, credit card information, and even the ability to be “you” in online spaces. Unfortunately, hackers and abusers see the value in being able access these accounts: they’re one of the most popular targets for cyber harassment and crime.
