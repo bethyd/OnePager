@@ -5,3 +5,5 @@ color: black  #text color
 style: left
 fa-icon: star
 ---
+
+Coming soon!
