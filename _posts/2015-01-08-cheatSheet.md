@@ -19,7 +19,7 @@ With so many cybersecurity tools out there, it can be intimidating to figure out
 This cheat sheet is best for the casual internet feminist: you're not particularly worried about trolls, tracking, or hacking, but you don't want to be vulnerable either. Our recommended tech for you is all free, requires only minimal set-up, and gives you easy options for securing your digital spaces and data. With almost all of this tech, you rarely have to think about what it's doing: it just works.<br>
 <br>
 <ul>
-	<li>Install <a href="#privacyplugins">privacy plugins</a> for Firefox to stop web trackers and encrypt your browsing whenever possible.</li>
+	<li>Install <a href="#privacyplugins">privacy extensions</a> for Firefox to stop web trackers and encrypt your browsing whenever possible.</li>
 	<li>Enable <a href="#twofactor">Two-Factor Authentication</a> for your digital accounts (especially email and social-media)</li>
 	<li>Download the <a href="#tor">Tor Browser</a> so you can browse anonymously when you need to</li>
 	<li>Encrypt <a href="#phoneencryption">your phone</a> and <a href="#computerencryption">your computer</a> to protect your private files, pictures, and media</li>
@@ -45,12 +45,12 @@ This cheat sheet is best for people who want their communications to be absolute
 <div class="recommend">
 <h5 class="text-white"><strong>Advanced Anonymity</strong></h5>
 <br>
-This cheat sheet is best for people who, for whatever reason, need greater control over digital information concerning their location, identity, and browsing activity. These are invaluable tools if you are worried about a website or troll being able to determine your address based on IP Address, or if you do not wish for your web browsing to be traced back to your home. Althought some of this tech can cost money, it is often a worthwhile price to pay for <br>
+This cheat sheet is best for people who, for whatever reason, need greater control over digital information concerning their location, identity, and browsing activity. These are invaluable tools if you are worried about a website or troll being able to determine your address based on IP Address, or if you do not wish for your web browsing to be traced back to your home. Although some of this tech can cost money, it is often a worthwhile price to pay for <br>
 <br>
 <ul>
 	<li>Hide your physical location and encrypt your web connections with your own <a href="#vpn">Virtual Private Network</a> connected to your computer and <a href="#phonevpn">your phone</a></li>
 	<li>Browse the internet anonymously with <a href="#tor">Tor Browser</a></li>
-	<li>Install <a href="#privacyplugins">privacy plugins</a> for Firefox for casual web browsing</li>
+	<li>Install <a href="#privacyplugins">privacy extensions</a> for Firefox for casual web browsing</li>
 	<li>Use a <a href="#fakeemail">fake email address</a> for creating digital accounts</li>
 </ul>
 </div>

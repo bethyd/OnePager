@@ -55,7 +55,7 @@ You’re probably suspicious: isn’t it dangerous to have all your passwords in
 <br>
 Given how hard it it is to remember safe, unique passwords, we still recommend a password manager, specifically the service <strong>LastPass</strong>.<br>
 <br>
-LastPass uses a combination of browser plug-ins, phone apps, encryption, two-factor authentication, and a multitude of other technologies to ensure your passwords are stored safely and accessibly (for only you!). It can also randomly generate -extremely- strong passwords for you to use. We especially like LastPass because all of your passwords are encrypted when saved in LastPass’ cloud: even if they were hacked, a hacker could not use them unless they knew your LastPass password (which is never stored by LastPass). Needless to say, if you decide to use LastPass, make sure your password to access LastPass is the strongest password you’ve ever had! You won’t have to remember your passwords anymore, so this should be a bit easier to do.<br>
+LastPass uses a combination of browser extensions, phone apps, encryption, two-factor authentication, and a multitude of other technologies to ensure your passwords are stored safely and accessibly (for only you!). It can also randomly generate -extremely- strong passwords for you to use. We especially like LastPass because all of your passwords are encrypted when saved in LastPass’ cloud: even if they were hacked, a hacker could not use them unless they knew your LastPass password (which is never stored by LastPass). Needless to say, if you decide to use LastPass, make sure your password to access LastPass is the strongest password you’ve ever had! You won’t have to remember your passwords anymore, so this should be a bit easier to do.<br>
 <br>
 You can get started with LastPass at their <a href="https://lastpass.com/">official site</a>.<br>
 <br>
@@ -86,6 +86,12 @@ When you use a site or service that offers Two-Factor Authentication (2FA), you 
 <br>
 Authy is a neat app that will automatically generate your two-factor authentication codes offline anywhere you have the Authy app installed. Authy can be installed on any phone or desktop, with all your 2FA code-generating accounts backed-up on a single Authy account. This means that if you were to lose a phone, or get a new laptop, all you have to do is install Authy and log-in with your Authy account info (have a very strong password!!) and your 2FA codes are still being generated seamlessly. Your 2FA accounts are encrypted in the cloud too, meaning that if Authy’s servers were ever hacked, your Authy data would be unusable! And because these codes can be generated offline, you do not need internet or cell service to access them.<br>
 <br>
-Available for free in the iTunes and Google Play stores, also as a chrome plug-in<br>
+Available for free in the iTunes and Google Play stores, also as a chrome extension<br>
 Guides for installing can be found on <a href="https://www.authy.com/users">Authy's website</a>
 </div>
+
+<hr>
+<h3 class="text-white">So... how do I know if I've been <strong>Hacked</strong>?</h3>
+Private companies have some of the worst security practices imaginable. Your passwords can be stored in their databases in plaintext, associated to your email and mailing addresses, sometimes even with credit card information attached. <strong>There are no regulations that force companies to take your security seriously, so very few do. As a consequence, corporate hacks and leaks are becoming increasingly common and will only continue to be more prevalent as big data mines and sells vast quantities of personal data</strong>. You probably hear about corporate hacks in the news, but they rarely make waves and are quickly forgotten. Unfortunately, this private data does not disappear with time: it is aggregated across the internet and stored indefinitely, sometimes by hackers, sometimes by security professionals. Thus, if you are not aware of a company leaking your data, or simply forget about it, you can still very much be at risk for targeted hacking (they have your personal information, after all).
+
+<code>Check out <a href="https://haveibeenpwned.com/">haveibeenpwned</a> to see if your email or username has ever been compromised in a major data breach. Your only course of defense is to <strong>use strong, unique passwords and two-factor authentication for all of your important accounts</strong></code>
