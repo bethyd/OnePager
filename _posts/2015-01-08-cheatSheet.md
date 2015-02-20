@@ -19,10 +19,11 @@ With so many cybersecurity tools out there, it can be intimidating to figure out
 This cheat sheet is best for the casual internet feminist: you're not particularly worried about trolls, tracking, or hacking, but you don't want to be vulnerable either. Our recommended tech for you is all free, requires only minimal set-up, and gives you easy options for securing your digital spaces and data. With almost all of this tech, you rarely have to think about what it's doing: it just works.<br>
 <br>
 <ul>
-	<li>Install <a href="#privacyplugins">privacy extensions</a> for Firefox to stop web trackers and encrypt your browsing whenever possible.</li>
+	<li>Install <a href="#privacyplugins">privacy extensions</a> for Firefox to stop web trackers and encrypt your browsing whenever possible</li>
 	<li>Enable <a href="#twofactor">Two-Factor Authentication</a> for your digital accounts (especially email and social-media)</li>
 	<li>Download the <a href="#tor">Tor Browser</a> so you can browse anonymously when you need to</li>
 	<li>Encrypt <a href="#phoneencryption">your phone</a> and <a href="#computerencryption">your computer</a> to protect your private files, pictures, and media</li>
+	<li>Be aware of common <a href="#phishing">Phishing</a> schemes</a></li>
 </ul>
 <br>
 (We definitely recommend using <a href="#passwordmanager">a password manager</a> to strengthen your passwords, though it's not free. If you do not use a password manager, please consider using <a href="strongpasswords">very strong and unique passwords</a> for your most important digital accounts!)
