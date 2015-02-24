@@ -51,8 +51,9 @@ This cheat sheet is best for people who, for whatever reason, need greater contr
 <br>
 <ul>
 	<li>Hide your physical location and encrypt your web connections with your own <a href="#vpn">Virtual Private Network</a> connected to your computer and <a href="#phonevpn">your phone</a></li>
+	<li>Install <a href="#tails">Tails</a> on a flash drive so you can have a portable, anonymous, amnesic operating system on any computer you encounter</li>
 	<li>Browse the internet anonymously with <a href="#tor">Tor Browser</a></li>
-	<li>Install <a href="#privacyextensions">privacy extensions</a> for Firefox for casual web browsing</li>
+	<li>Use <a href="#privacyextensions">privacy extensions</a> for Firefox for casual web browsing</li>
 	<li>Use a <a href="#fakeemail">fake email address</a> for creating digital accounts</li>
 </ul>
 </div>
