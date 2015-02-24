@@ -24,6 +24,7 @@ This cheat sheet is best for the casual internet feminist: you're not particular
 	<li>Download the <a href="#tor">Tor Browser</a> so you can browse anonymously when you need to</li>
 	<li>Encrypt <a href="#phoneencryption">your phone</a> and <a href="#computerencryption">your computer</a> to protect your private files, pictures, and media</li>
 	<li>Be aware of common <a href="#phishing">Phishing</a> schemes</a></li>
+	<li>Know your <a href="#privacysettings">Social Media Security</a></li>
 </ul>
 <br>
 (We definitely recommend using <a href="#passwordmanager">a password manager</a> to strengthen your passwords, though it's not free. If you do not use a password manager, please consider using <a href="strongpasswords">very strong and unique passwords</a> for your most important digital accounts!)
