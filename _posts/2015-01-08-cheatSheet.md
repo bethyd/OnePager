@@ -36,7 +36,7 @@ This cheat sheet is best for internet feminist: you can make it much more diffic
 This cheat sheet is best for people who want their communications to be absolutely private. Being able to converse securely is invaluable for journalists, activists, medical professionals, public figures, and casual internet users who are uncomfortable with their conversations being accessed by government surveillance, corporate data miners, or hackers. You don't necessarily have to use this tech 24/7; sometimes it's easier just to use as as-needed. It's up to you to decide when the situation calls for greater privacy!<br>
 <br>
 <ul>
-	<li>Encrypt <a href="#sms">SMS texts</a> on your smartphone</li>
+	<li>Encrypt texts on your smartphone with <a href="#sms">Signal or Chatsecure</a></li>
 	<li>Encrypt instant messaging with <a href="#otr">OTR</a></li>
 	<li>Send encrypted emails with <a href="#pgp">PGP</a></li>
 	<li>Make encrypted <a href="#phonecalls">phone calls</a> on your smartphone</li>
