@@ -20,7 +20,7 @@ keywords:    "Security, privacy, feminist, guide, harassment, troll"
 description: "A super accessible DIY guide for feminists, activists, and friends to take control of their digital spaces"
 source_link: "https://github.com/noahke/DIY-Feminist-Cybersecurity"
 favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+touch_icon:  ##"img/apple-touch-icon.png"
 google_analytics_key: "UA-32315541-3"
 
 
