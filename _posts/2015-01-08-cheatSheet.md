@@ -47,7 +47,7 @@ This cheat sheet is best for people who want their communications to be absolute
 <div class="recommend">
 <h5 class="text-white"><strong>Advanced Anonymity</strong></h5>
 <br>
-This cheat sheet is best for people who, for whatever reason, need greater control over digital information concerning their location, identity, and browsing activity. These are invaluable tools if you are worried about a website or troll being able to determine your address based on IP Address, or if you do not wish for your web browsing to be traced back to your home. Although some of this tech can cost money, it is often a worthwhile price to pay for <br>
+This cheat sheet is best for people who, for whatever reason, need greater control over digital information concerning their location, identity, and browsing activity. These are invaluable tools if you are worried about a website or troll being able to determine your address based on IP Address, or if you do not wish for your web browsing to be traced back to your home. Although some of this tech can cost money, it is often a worthwhile price to pay for.<br>
 <br>
 <ul>
 	<li>Hide your physical location and encrypt your web connections with your own <a href="#vpn">Virtual Private Network</a> connected to your computer and <a href="#phonevpn">your phone</a></li>
