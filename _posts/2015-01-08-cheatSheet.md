@@ -16,7 +16,7 @@ With so many cybersecurity tools out there, it can be intimidating to figure out
 <div class="recommend">
 <h5 class="text-white"><strong>Casual Security</strong></h5>
 <br>
-This cheat sheet is best for internet feminist: you can make it much more difficult for trolls, trackers, and hackers to compromise your digital spaces. Our recommended tech for you is all free, requires only minimal set-up, and gives you easy options for securing your digital spaces and data. With almost all of this tech, you rarely have to think about what it's doing: it just works.<br>
+This cheat sheet is best for internet feminists: you can make it much more difficult for trolls, trackers, and hackers to compromise your digital spaces. Our recommended tech for you is all free, requires only minimal set-up, and gives you easy options for securing your digital spaces and data. With almost all of this tech, you rarely have to think about what it's doing: it just works.<br>
 <br>
 <ul>
 	<li>Install <a href="#privacyextensions">privacy extensions</a> for Firefox to stop web trackers and encrypt your browsing whenever possible</li>
